@@ -35,7 +35,7 @@ export default function Produit() {
         <div className="flex flex-col lg:flex-row items-center gap-8">
           <div className="flex-1">
             <img
-              src="./images/IMG_20240116_214450-removebg-preview.png"
+              src="./images/produit.png"
               alt="Témoignage"
               className="w-full max-w-sm mx-auto lg:mx-0"
             />

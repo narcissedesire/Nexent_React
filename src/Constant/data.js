@@ -42,27 +42,27 @@ export const services = [
 export const clients = [
   {
     name: "Client A",
-    logo: "/images/image.jpg",
+    logo: "/images/client-1.jpg",
   },
   {
     name: "Client B",
-    logo: "/images/image.jpg",
+    logo: "/images/client-2.jpg",
   },
   {
     name: "Client C",
-    logo: "/images/image.jpg",
+    logo: "/images/client-3.jpeg",
   },
   {
     name: "Client D",
-    logo: "/images/image.jpg",
+    logo: "/images/client-4.webp",
   },
   {
     name: "Client E",
-    logo: "/images/image.jpg",
+    logo: "/images/client-5.png",
   },
   {
     name: "Client F",
-    logo: "/images/image.jpg",
+    logo: "/images/client-6.png",
   },
 ];
 
