@@ -25,7 +25,7 @@ export default function Navbar() {
   }, []);
 
   return (
-    <header className="w-full fixed top-0 left-0 z-[1000]">
+    <header className="w-full max-w-screen-2xl fixed top-0 left-0 z-[1000]">
       <nav
         className={`py-4 lg:px-14 px-4 ${
           isSticky
